@@ -1,5 +1,5 @@
 # GIT_BOID
-Through my school project for my last year, I had to develop an AI for hordes of enemies. I struggled to find ways to fix the problems inherent to this kind of numbers : pathfinding issues, stuck situations, loss of objective... So I started this project to see how I could implement a flocking system. In the end it was not used in my other project but it was a good learning experience and a great joy to learn more about working with AI. 
+Through my school project for my last year, I had to develop an AI for hordes of enemies. I struggled to find ways to fix the problems inherent to this kind of numbers : pathfinding issues, stuck situations, loss of objective... So I started this project to see how I could implement a flocking system. In the end it was not used in my other project as I found other ways to fix them but it was a good learning experience and a great joy to learn more about working with AI. 
 
 This is a basic flocking algorithm that use the 3 ways of calculating vectors for alignment, separation and cohesion values in order to give a velocity or direction to each flock member in accordance with the ones of its neighbors.
 
