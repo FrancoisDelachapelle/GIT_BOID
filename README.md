@@ -4,3 +4,5 @@ Through my school project for my last year, I had to develop an AI for hordes of
 This is a basic flocking algorithm that use the 3 ways of calculating vectors for alignment, separation and cohesion values in order to give a velocity or direction to each flock member in accordance with the ones of its neighbors.
 
 I also used the opportunity to try my hand to events and to create a custom UI element, a slider, to manage my flock's speed at runtime. 
+
+This project was made on another git account and moved to this one later on because this is my display account.
