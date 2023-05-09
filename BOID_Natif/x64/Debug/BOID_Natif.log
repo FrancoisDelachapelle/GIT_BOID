@@ -1,0 +1,7 @@
+﻿  BoidManager.cpp
+C:\_FrancoisD\ProjetsPersos\Natif\BOID_Natif\BoidManager.cpp(30,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\_FrancoisD\ProjetsPersos\Natif\BOID_Natif\BoidManager.cpp(30,35): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  BoidMember.cpp
+  GameManager.cpp
+  Generating Code...
+  BOID_Natif.vcxproj -> C:\_FrancoisD\ProjetsPersos\Natif\BOID_Natif\x64\Debug\BOID_Natif.exe
