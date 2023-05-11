@@ -1,6 +1,5 @@
 ﻿#pragma once
 #include <SFML/System/Vector2.hpp>
-#include "Mat.h"
 class Math
 {
 public:

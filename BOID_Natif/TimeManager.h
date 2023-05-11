@@ -1,8 +1,6 @@
 ﻿#pragma once
 #include <SFML/System/Clock.hpp>
 
-#include "Singleton.h"
-
 class TimeManager
 {
 private:

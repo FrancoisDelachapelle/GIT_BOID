@@ -143,14 +143,10 @@
     <ClCompile Include="Button.cpp" />
     <ClCompile Include="Delegate.cpp" />
     <ClCompile Include="GameManager.cpp" />
-    <ClCompile Include="Globals.cpp" />
-    <ClCompile Include="Mat.cpp" />
     <ClCompile Include="Math.cpp" />
     <ClCompile Include="MovementComponent.cpp" />
     <ClCompile Include="Object.cpp" />
-    <ClCompile Include="Singleton.cpp" />
     <ClCompile Include="Slider.cpp" />
-    <ClCompile Include="StaticMesh.cpp" />
     <ClCompile Include="TimeManager.cpp" />
     <ClCompile Include="UIManager.cpp" />
   </ItemGroup>
@@ -162,14 +158,10 @@
     <ClInclude Include="Button.h" />
     <ClInclude Include="Delegate.h" />
     <ClInclude Include="GameManager.h" />
-    <ClInclude Include="Globals.h" />
-    <ClInclude Include="Mat.h" />
     <ClInclude Include="Math.h" />
     <ClInclude Include="MovementComponent.h" />
     <ClInclude Include="Object.h" />
-    <ClInclude Include="Singleton.h" />
     <ClInclude Include="Slider.h" />
-    <ClInclude Include="StaticMesh.h" />
     <ClInclude Include="TimeManager.h" />
     <ClInclude Include="UIManager.h" />
   </ItemGroup>

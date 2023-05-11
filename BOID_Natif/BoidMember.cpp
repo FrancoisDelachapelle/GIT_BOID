@@ -1,7 +1,6 @@
 #include "BoidMember.h"
 
 #include <iostream>
-#include "Globals.h"
 #include "BoidGenerator.h"
 #include "GameManager.h"
 

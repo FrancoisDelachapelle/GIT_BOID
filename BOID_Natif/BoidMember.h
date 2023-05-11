@@ -1,6 +1,7 @@
 #pragma once
 #include <SFML/graphics.hpp>
 #include "MovementComponent.h"
+#include "Object.h"
 
 enum class EBoidsType
 {
@@ -12,7 +13,8 @@ enum class EBoidsType
 class BoidGenerator;
 class GameManager;
 class BoidManager;
-class BoidMember
+
+class BoidMember : public Object
 {
 protected:
 	//number used to generate boid ID
